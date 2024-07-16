@@ -1,0 +1,25 @@
+# ninja log v5
+4774	5224	1720510143747528308	src/server/CMakeFiles/ChatServer.dir/db/db.cpp.o	799af0c6e603d3f7
+35	846	1720510220968886702	src/server/CMakeFiles/ChatServer.dir/model/groupmodel.cpp.o	9310189c317acef1
+3	4255	1720510468981300699	src/client/CMakeFiles/ChatClient.dir/main.cpp.o	b7b6558a24b99f3d
+1	1727	1720605141266229809	src/server/CMakeFiles/ChatServer.dir/chatservice.cpp.o	fb91f3238dc7ee3b
+2315	2909	1720838351598925705	/home/siki/Documents/CHAT/bin/ChatServer	8fe5ff593a8766e0
+749	1441	1720510221564897221	src/server/CMakeFiles/ChatServer.dir/model/offlinemessagemodel.cpp.o	8921b87342d9e44f
+3	5081	1720598393830791972	src/server/CMakeFiles/ChatServer.dir/chatserver.cpp.o	410fefb827cac0e0
+7	2315	1720838351006919947	src/server/CMakeFiles/ChatServer.dir/main.cpp.o	43d5b650d9543508
+7	484	1720595818461022700	src/server/CMakeFiles/ChatServer.dir/model/usermodel.cpp.o	2a83afa10cd07c89
+5	80	1721026907625304158	build.ninja	3eec50f1c58e987d
+3	391	1720596758945785869	src/server/CMakeFiles/ChatServer.dir/model/friendmodel.cpp.o	dc69614b9042cfb
+4255	4410	1720510469137303495	/home/siki/Documents/CHAT/bin/ChatClient	e57b917f3306b608
+11	2855	1721114184002242764	src/server/CMakeFiles/ChatServer.dir/main.cpp.o	642caf1b9758cd35
+2856	3381	1721114184526247565	src/server/CMakeFiles/ChatServer.dir/db/db.cpp.o	c383339e548c382a
+3381	4005	1721114185146253243	src/server/CMakeFiles/ChatServer.dir/model/friendmodel.cpp.o	38e971f96d07c4d3
+5	4163	1721114185298254634	src/server/CMakeFiles/ChatServer.dir/chatserver.cpp.o	50627054505ab722
+4005	4647	1721114185786259100	src/server/CMakeFiles/ChatServer.dir/model/groupmodel.cpp.o	6e6c5d5fe3431fc9
+4163	4653	1721114185798259209	src/server/CMakeFiles/ChatServer.dir/model/offlinemessagemodel.cpp.o	98259196306043b
+4647	4974	1721114186118262137	src/server/CMakeFiles/ChatServer.dir/model/usermodel.cpp.o	65224c84487bd66d
+11	5058	1721114186198262869	src/server/CMakeFiles/ChatServer.dir/chatservice.cpp.o	d7968b2a81aa5d65
+4653	5662	1721114186806268427	src/server/CMakeFiles/ChatServer.dir/redis/redis.cpp.o	54773f2dac55ff65
+5662	5910	1721114187054270694	/home/siki/Documents/CHAT/bin/ChatServer	62ca9f469774bca8
+4974	7669	1721114188810286722	src/client/CMakeFiles/ChatClient.dir/main.cpp.o	994e85aa75437974
+7669	7758	1721114188898287525	/home/siki/Documents/CHAT/bin/ChatClient	e57b917f3306b608

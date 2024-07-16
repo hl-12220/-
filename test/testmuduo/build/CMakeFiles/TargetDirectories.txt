@@ -1,0 +1,3 @@
+/home/siki/Documents/testmuduo/build/CMakeFiles/server.dir
+/home/siki/Documents/testmuduo/build/CMakeFiles/edit_cache.dir
+/home/siki/Documents/testmuduo/build/CMakeFiles/rebuild_cache.dir
